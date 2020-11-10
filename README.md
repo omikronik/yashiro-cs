@@ -15,7 +15,7 @@ Add me on discord as **Solon#4472**.
 - Technological Universtiy Dublin
 
 ---
-
+- currently not functional
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=yashiro-cs&show_icons=true&count_private=true&hide=stars">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashiro-cs&layout=compact">
 
